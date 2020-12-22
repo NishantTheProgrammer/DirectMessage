@@ -3,4 +3,4 @@
 It's a utility app to start chat on WhatsApp without saving that contact
 
 Download from 
-[here](build/direct-message.apk)
+[here](https://github.com/NishantTheProgrammer/DirectMessage/raw/master/build/direct-message.apk)
